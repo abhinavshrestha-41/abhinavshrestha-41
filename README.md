@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub profile! 👋
 
-My name is Abhinav Shrestha, I go by 'Abhi' for short (pronouced /ɑː-biː/; अभिनव in Nepali). I am a recent M.S. graduate from Nepal in the <a href = "https://www.uidaho.edu/sci/ess" target="_blank">Department of Earth and Spatial Sciences</a> at the <a href = "https://www.uidaho.edu/" target="_blank">University of Idaho</a>. I am worked in the Ecological Geography lab with <a href = "https://webpages.uidaho.edu/~jhicke/" target="_blank">Dr. Jeffrey Hicke</a>.
+* My name is Abhinav Shrestha, I go by 'Abhi' for short (pronouced /ɑː-biː/; अभिनव in Nepali).
+* I am a recent M.S. graduate from Nepal in the <a href = "https://www.uidaho.edu/sci/ess" target="_blank">Department of Earth and Spatial Sciences</a> at the <a href = "https://www.uidaho.edu/" target="_blank">University of Idaho</a>. I am worked in the Ecological Geography lab with <a href = "https://webpages.uidaho.edu/~jhicke/" target="_blank">Dr. Jeffrey Hicke</a>.
 
 
