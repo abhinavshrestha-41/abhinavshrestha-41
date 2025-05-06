@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 * My name is Abhinav Shrestha, I go by 'Abhi' for short (pronouced /ɑː-biː/; अभिनव in Nepali).
 * I am a M.S. graduate from the <a href = "https://www.uidaho.edu/sci/ess" target="_blank">Department of Earth and Spatial Sciences</a> at the <a href = "https://www.uidaho.edu/" target="_blank">University of Idaho</a> where I worked in the Ecological Geography lab with <a href = "https://webpages.uidaho.edu/~jhicke/" target="_blank">Dr. Jeffrey Hicke</a>.
-* Currently, I am a Remote Sensing and Geospatial Specialist with RedCastle Resources, Inc. working as a Federal Contractor for the [USDA Forest Service Geospatial Technology and Applications Center (GTAC)](https://www.fs.usda.gov/about-agency/gtac)
+* Most recent role: Remote Sensing and Geospatial Specialist, <a href = "https://www.redcastleresources.com/" target="_blank">RedCastle Resources, Inc.</a>. I served as a federal contractor to the USDA Forest Service’s <a href = "https://www.fs.usda.gov/about-agency/gtac" target="_blank">Geospatial Office (GO)</a>. This role involved analytical collaboration on various operational operational remote sensing and geospatial projects with USDA Forest Service, leveraging data, technology, and scientific expertise to create strategic insights and provide technical support.
 > [!NOTE] 
 > For more information about me and my work, please check out my personal website: [https://abhinavshrestha-41.github.io/](https://abhinavshrestha-41.github.io/)
 
